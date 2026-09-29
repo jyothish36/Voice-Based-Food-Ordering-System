@@ -1,0 +1,747 @@
+VOICE: 1 pazham pori venam
+STT: 1 pazham pori venam
+NORMALIZED: 1 pazham pori
+EXTRACTED QUANTITY: 1
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 1
+FINAL CART QUANTITY: 1
+--------------------------------------------------
+VOICE: 2 pazham pori venam
+STT: 2 pazham pori venam
+NORMALIZED: 2 pazham pori
+EXTRACTED QUANTITY: 2
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 2
+FINAL CART QUANTITY: 2
+--------------------------------------------------
+VOICE: 3 pazham pori venam
+STT: 3 pazham pori venam
+NORMALIZED: 3 pazham pori
+EXTRACTED QUANTITY: 3
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 3
+FINAL CART QUANTITY: 3
+--------------------------------------------------
+VOICE: 4 pazham pori venam
+STT: 4 pazham pori venam
+NORMALIZED: 4 pazham pori
+EXTRACTED QUANTITY: 4
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 4
+FINAL CART QUANTITY: 4
+--------------------------------------------------
+VOICE: 5 pazham pori venam
+STT: 5 pazham pori venam
+NORMALIZED: 5 pazham pori
+EXTRACTED QUANTITY: 5
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 5
+FINAL CART QUANTITY: 5
+--------------------------------------------------
+VOICE: 6 pazham pori venam
+STT: 6 pazham pori venam
+NORMALIZED: 6 pazham pori
+EXTRACTED QUANTITY: 6
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 6
+FINAL CART QUANTITY: 6
+--------------------------------------------------
+VOICE: 7 pazham pori venam
+STT: 7 pazham pori venam
+NORMALIZED: 7 pazham pori
+EXTRACTED QUANTITY: 7
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 7
+FINAL CART QUANTITY: 7
+--------------------------------------------------
+VOICE: 8 pazham pori venam
+STT: 8 pazham pori venam
+NORMALIZED: 8 pazham pori
+EXTRACTED QUANTITY: 8
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 8
+FINAL CART QUANTITY: 8
+--------------------------------------------------
+VOICE: 9 pazham pori venam
+STT: 9 pazham pori venam
+NORMALIZED: 9 pazham pori
+EXTRACTED QUANTITY: 9
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 9
+FINAL CART QUANTITY: 9
+--------------------------------------------------
+VOICE: 10 pazham pori venam
+STT: 10 pazham pori venam
+NORMALIZED: 10 pazham pori
+EXTRACTED QUANTITY: 10
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 10
+FINAL CART QUANTITY: 10
+--------------------------------------------------
+VOICE: 1 tea venam
+STT: 1 tea venam
+NORMALIZED: 1 tea
+EXTRACTED QUANTITY: 1
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 1
+FINAL CART QUANTITY: 1
+--------------------------------------------------
+VOICE: 2 tea venam
+STT: 2 tea venam
+NORMALIZED: 2 tea
+EXTRACTED QUANTITY: 2
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 2
+FINAL CART QUANTITY: 2
+--------------------------------------------------
+VOICE: 3 tea venam
+STT: 3 tea venam
+NORMALIZED: 3 tea
+EXTRACTED QUANTITY: 3
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 3
+FINAL CART QUANTITY: 3
+--------------------------------------------------
+VOICE: 4 tea venam
+STT: 4 tea venam
+NORMALIZED: 4 tea
+EXTRACTED QUANTITY: 4
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 4
+FINAL CART QUANTITY: 4
+--------------------------------------------------
+VOICE: 5 tea venam
+STT: 5 tea venam
+NORMALIZED: 5 tea
+EXTRACTED QUANTITY: 5
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 5
+FINAL CART QUANTITY: 5
+--------------------------------------------------
+VOICE: 6 tea venam
+STT: 6 tea venam
+NORMALIZED: 6 tea
+EXTRACTED QUANTITY: 6
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 6
+FINAL CART QUANTITY: 6
+--------------------------------------------------
+VOICE: 7 tea venam
+STT: 7 tea venam
+NORMALIZED: 7 tea
+EXTRACTED QUANTITY: 7
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 7
+FINAL CART QUANTITY: 7
+--------------------------------------------------
+VOICE: 8 tea venam
+STT: 8 tea venam
+NORMALIZED: 8 tea
+EXTRACTED QUANTITY: 8
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 8
+FINAL CART QUANTITY: 8
+--------------------------------------------------
+VOICE: 9 tea venam
+STT: 9 tea venam
+NORMALIZED: 9 tea
+EXTRACTED QUANTITY: 9
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 9
+FINAL CART QUANTITY: 9
+--------------------------------------------------
+VOICE: 10 tea venam
+STT: 10 tea venam
+NORMALIZED: 10 tea
+EXTRACTED QUANTITY: 10
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 10
+FINAL CART QUANTITY: 10
+--------------------------------------------------
+VOICE: 1 egg bajji venam
+STT: 1 egg bajji venam
+NORMALIZED: 1 egg bajji
+EXTRACTED QUANTITY: 1
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 1
+FINAL CART QUANTITY: 1
+--------------------------------------------------
+VOICE: 2 egg bajji venam
+STT: 2 egg bajji venam
+NORMALIZED: 2 egg bajji
+EXTRACTED QUANTITY: 2
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 2
+FINAL CART QUANTITY: 2
+--------------------------------------------------
+VOICE: 3 egg bajji venam
+STT: 3 egg bajji venam
+NORMALIZED: 3 egg bajji
+EXTRACTED QUANTITY: 3
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 3
+FINAL CART QUANTITY: 3
+--------------------------------------------------
+VOICE: 4 egg bajji venam
+STT: 4 egg bajji venam
+NORMALIZED: 4 egg bajji
+EXTRACTED QUANTITY: 4
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 4
+FINAL CART QUANTITY: 4
+--------------------------------------------------
+VOICE: 5 egg bajji venam
+STT: 5 egg bajji venam
+NORMALIZED: 5 egg bajji
+EXTRACTED QUANTITY: 5
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 5
+FINAL CART QUANTITY: 5
+--------------------------------------------------
+VOICE: 6 egg bajji venam
+STT: 6 egg bajji venam
+NORMALIZED: 6 egg bajji
+EXTRACTED QUANTITY: 6
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 6
+FINAL CART QUANTITY: 6
+--------------------------------------------------
+VOICE: 7 egg bajji venam
+STT: 7 egg bajji venam
+NORMALIZED: 7 egg bajji
+EXTRACTED QUANTITY: 7
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 7
+FINAL CART QUANTITY: 7
+--------------------------------------------------
+VOICE: 8 egg bajji venam
+STT: 8 egg bajji venam
+NORMALIZED: 8 egg bajji
+EXTRACTED QUANTITY: 8
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 8
+FINAL CART QUANTITY: 8
+--------------------------------------------------
+VOICE: 9 egg bajji venam
+STT: 9 egg bajji venam
+NORMALIZED: 9 egg bajji
+EXTRACTED QUANTITY: 9
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 9
+FINAL CART QUANTITY: 9
+--------------------------------------------------
+VOICE: 10 egg bajji venam
+STT: 10 egg bajji venam
+NORMALIZED: 10 egg bajji
+EXTRACTED QUANTITY: 10
+EXTRACTED ITEM: Egg Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 10
+FINAL CART QUANTITY: 10
+--------------------------------------------------
+VOICE: 1 mulaku bajji venam
+STT: 1 mulaku bajji venam
+NORMALIZED: 1 mulaku bajji
+EXTRACTED QUANTITY: 1
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 1
+FINAL CART QUANTITY: 1
+--------------------------------------------------
+VOICE: 2 mulaku bajji venam
+STT: 2 mulaku bajji venam
+NORMALIZED: 2 mulaku bajji
+EXTRACTED QUANTITY: 2
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 2
+FINAL CART QUANTITY: 2
+--------------------------------------------------
+VOICE: 3 mulaku bajji venam
+STT: 3 mulaku bajji venam
+NORMALIZED: 3 mulaku bajji
+EXTRACTED QUANTITY: 3
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 3
+FINAL CART QUANTITY: 3
+--------------------------------------------------
+VOICE: 4 mulaku bajji venam
+STT: 4 mulaku bajji venam
+NORMALIZED: 4 mulaku bajji
+EXTRACTED QUANTITY: 4
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 4
+FINAL CART QUANTITY: 4
+--------------------------------------------------
+VOICE: 5 mulaku bajji venam
+STT: 5 mulaku bajji venam
+NORMALIZED: 5 mulaku bajji
+EXTRACTED QUANTITY: 5
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 5
+FINAL CART QUANTITY: 5
+--------------------------------------------------
+VOICE: 6 mulaku bajji venam
+STT: 6 mulaku bajji venam
+NORMALIZED: 6 mulaku bajji
+EXTRACTED QUANTITY: 6
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 6
+FINAL CART QUANTITY: 6
+--------------------------------------------------
+VOICE: 7 mulaku bajji venam
+STT: 7 mulaku bajji venam
+NORMALIZED: 7 mulaku bajji
+EXTRACTED QUANTITY: 7
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 7
+FINAL CART QUANTITY: 7
+--------------------------------------------------
+VOICE: 8 mulaku bajji venam
+STT: 8 mulaku bajji venam
+NORMALIZED: 8 mulaku bajji
+EXTRACTED QUANTITY: 8
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 8
+FINAL CART QUANTITY: 8
+--------------------------------------------------
+VOICE: 9 mulaku bajji venam
+STT: 9 mulaku bajji venam
+NORMALIZED: 9 mulaku bajji
+EXTRACTED QUANTITY: 9
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 9
+FINAL CART QUANTITY: 9
+--------------------------------------------------
+VOICE: 10 mulaku bajji venam
+STT: 10 mulaku bajji venam
+NORMALIZED: 10 mulaku bajji
+EXTRACTED QUANTITY: 10
+EXTRACTED ITEM: Mulaku Bajji
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 10
+FINAL CART QUANTITY: 10
+--------------------------------------------------
+VOICE: 1 parippu vada venam
+STT: 1 parippu vada venam
+NORMALIZED: 1 parippu vada
+EXTRACTED QUANTITY: 1
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 1
+FINAL CART QUANTITY: 1
+--------------------------------------------------
+VOICE: 2 parippu vada venam
+STT: 2 parippu vada venam
+NORMALIZED: 2 parippu vada
+EXTRACTED QUANTITY: 2
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 2
+FINAL CART QUANTITY: 2
+--------------------------------------------------
+VOICE: 3 parippu vada venam
+STT: 3 parippu vada venam
+NORMALIZED: 3 parippu vada
+EXTRACTED QUANTITY: 3
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 3
+FINAL CART QUANTITY: 3
+--------------------------------------------------
+VOICE: 4 parippu vada venam
+STT: 4 parippu vada venam
+NORMALIZED: 4 parippu vada
+EXTRACTED QUANTITY: 4
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 4
+FINAL CART QUANTITY: 4
+--------------------------------------------------
+VOICE: 5 parippu vada venam
+STT: 5 parippu vada venam
+NORMALIZED: 5 parippu vada
+EXTRACTED QUANTITY: 5
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 5
+FINAL CART QUANTITY: 5
+--------------------------------------------------
+VOICE: 6 parippu vada venam
+STT: 6 parippu vada venam
+NORMALIZED: 6 parippu vada
+EXTRACTED QUANTITY: 6
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 6
+FINAL CART QUANTITY: 6
+--------------------------------------------------
+VOICE: 7 parippu vada venam
+STT: 7 parippu vada venam
+NORMALIZED: 7 parippu vada
+EXTRACTED QUANTITY: 7
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 7
+FINAL CART QUANTITY: 7
+--------------------------------------------------
+VOICE: 8 parippu vada venam
+STT: 8 parippu vada venam
+NORMALIZED: 8 parippu vada
+EXTRACTED QUANTITY: 8
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 8
+FINAL CART QUANTITY: 8
+--------------------------------------------------
+VOICE: 9 parippu vada venam
+STT: 9 parippu vada venam
+NORMALIZED: 9 parippu vada
+EXTRACTED QUANTITY: 9
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 9
+FINAL CART QUANTITY: 9
+--------------------------------------------------
+VOICE: 10 parippu vada venam
+STT: 10 parippu vada venam
+NORMALIZED: 10 parippu vada
+EXTRACTED QUANTITY: 10
+EXTRACTED ITEM: Parippu Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 10
+FINAL CART QUANTITY: 10
+--------------------------------------------------
+VOICE: 1 ulli vada venam
+STT: 1 ulli vada venam
+NORMALIZED: 1 ulli vada
+EXTRACTED QUANTITY: 1
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 1
+FINAL CART QUANTITY: 1
+--------------------------------------------------
+VOICE: 2 ulli vada venam
+STT: 2 ulli vada venam
+NORMALIZED: 2 ulli vada
+EXTRACTED QUANTITY: 2
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 2
+FINAL CART QUANTITY: 2
+--------------------------------------------------
+VOICE: 3 ulli vada venam
+STT: 3 ulli vada venam
+NORMALIZED: 3 ulli vada
+EXTRACTED QUANTITY: 3
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 3
+FINAL CART QUANTITY: 3
+--------------------------------------------------
+VOICE: 4 ulli vada venam
+STT: 4 ulli vada venam
+NORMALIZED: 4 ulli vada
+EXTRACTED QUANTITY: 4
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 4
+FINAL CART QUANTITY: 4
+--------------------------------------------------
+VOICE: 5 ulli vada venam
+STT: 5 ulli vada venam
+NORMALIZED: 5 ulli vada
+EXTRACTED QUANTITY: 5
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 5
+FINAL CART QUANTITY: 5
+--------------------------------------------------
+VOICE: 6 ulli vada venam
+STT: 6 ulli vada venam
+NORMALIZED: 6 ulli vada
+EXTRACTED QUANTITY: 6
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 6
+FINAL CART QUANTITY: 6
+--------------------------------------------------
+VOICE: 7 ulli vada venam
+STT: 7 ulli vada venam
+NORMALIZED: 7 ulli vada
+EXTRACTED QUANTITY: 7
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 7
+FINAL CART QUANTITY: 7
+--------------------------------------------------
+VOICE: 8 ulli vada venam
+STT: 8 ulli vada venam
+NORMALIZED: 8 ulli vada
+EXTRACTED QUANTITY: 8
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 8
+FINAL CART QUANTITY: 8
+--------------------------------------------------
+VOICE: 9 ulli vada venam
+STT: 9 ulli vada venam
+NORMALIZED: 9 ulli vada
+EXTRACTED QUANTITY: 9
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 9
+FINAL CART QUANTITY: 9
+--------------------------------------------------
+VOICE: 10 ulli vada venam
+STT: 10 ulli vada venam
+NORMALIZED: 10 ulli vada
+EXTRACTED QUANTITY: 10
+EXTRACTED ITEM: Ulli Vada
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 10
+FINAL CART QUANTITY: 10
+--------------------------------------------------
+VOICE: 1 chicken cutlet venam
+STT: 1 chicken cutlet venam
+NORMALIZED: 1 chicken cutlet
+EXTRACTED QUANTITY: 1
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 1
+FINAL CART QUANTITY: 1
+--------------------------------------------------
+VOICE: 2 chicken cutlet venam
+STT: 2 chicken cutlet venam
+NORMALIZED: 2 chicken cutlet
+EXTRACTED QUANTITY: 2
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 2
+FINAL CART QUANTITY: 2
+--------------------------------------------------
+VOICE: 3 chicken cutlet venam
+STT: 3 chicken cutlet venam
+NORMALIZED: 3 chicken cutlet
+EXTRACTED QUANTITY: 3
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 3
+FINAL CART QUANTITY: 3
+--------------------------------------------------
+VOICE: 4 chicken cutlet venam
+STT: 4 chicken cutlet venam
+NORMALIZED: 4 chicken cutlet
+EXTRACTED QUANTITY: 4
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 4
+FINAL CART QUANTITY: 4
+--------------------------------------------------
+VOICE: 5 chicken cutlet venam
+STT: 5 chicken cutlet venam
+NORMALIZED: 5 chicken cutlet
+EXTRACTED QUANTITY: 5
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 5
+FINAL CART QUANTITY: 5
+--------------------------------------------------
+VOICE: 6 chicken cutlet venam
+STT: 6 chicken cutlet venam
+NORMALIZED: 6 chicken cutlet
+EXTRACTED QUANTITY: 6
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 6
+FINAL CART QUANTITY: 6
+--------------------------------------------------
+VOICE: 7 chicken cutlet venam
+STT: 7 chicken cutlet venam
+NORMALIZED: 7 chicken cutlet
+EXTRACTED QUANTITY: 7
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 7
+FINAL CART QUANTITY: 7
+--------------------------------------------------
+VOICE: 8 chicken cutlet venam
+STT: 8 chicken cutlet venam
+NORMALIZED: 8 chicken cutlet
+EXTRACTED QUANTITY: 8
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 8
+FINAL CART QUANTITY: 8
+--------------------------------------------------
+VOICE: 9 chicken cutlet venam
+STT: 9 chicken cutlet venam
+NORMALIZED: 9 chicken cutlet
+EXTRACTED QUANTITY: 9
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 9
+FINAL CART QUANTITY: 9
+--------------------------------------------------
+VOICE: 10 chicken cutlet venam
+STT: 10 chicken cutlet venam
+NORMALIZED: 10 chicken cutlet
+EXTRACTED QUANTITY: 10
+EXTRACTED ITEM: Chicken Cutlet
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 10
+FINAL CART QUANTITY: 10
+--------------------------------------------------
+VOICE: 1 coffee venam
+STT: 1 coffee venam
+NORMALIZED: 1 coffee
+EXTRACTED QUANTITY: 1
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 1
+FINAL CART QUANTITY: 1
+--------------------------------------------------
+VOICE: 2 coffee venam
+STT: 2 coffee venam
+NORMALIZED: 2 coffee
+EXTRACTED QUANTITY: 2
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 2
+FINAL CART QUANTITY: 2
+--------------------------------------------------
+VOICE: 3 coffee venam
+STT: 3 coffee venam
+NORMALIZED: 3 coffee
+EXTRACTED QUANTITY: 3
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 3
+FINAL CART QUANTITY: 3
+--------------------------------------------------
+VOICE: 4 coffee venam
+STT: 4 coffee venam
+NORMALIZED: 4 coffee
+EXTRACTED QUANTITY: 4
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 4
+FINAL CART QUANTITY: 4
+--------------------------------------------------
+VOICE: 5 coffee venam
+STT: 5 coffee venam
+NORMALIZED: 5 coffee
+EXTRACTED QUANTITY: 5
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 5
+FINAL CART QUANTITY: 5
+--------------------------------------------------
+VOICE: 6 coffee venam
+STT: 6 coffee venam
+NORMALIZED: 6 coffee
+EXTRACTED QUANTITY: 6
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 6
+FINAL CART QUANTITY: 6
+--------------------------------------------------
+VOICE: 7 coffee venam
+STT: 7 coffee venam
+NORMALIZED: 7 coffee
+EXTRACTED QUANTITY: 7
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 7
+FINAL CART QUANTITY: 7
+--------------------------------------------------
+VOICE: 8 coffee venam
+STT: 8 coffee venam
+NORMALIZED: 8 coffee
+EXTRACTED QUANTITY: 8
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 8
+FINAL CART QUANTITY: 8
+--------------------------------------------------
+VOICE: 9 coffee venam
+STT: 9 coffee venam
+NORMALIZED: 9 coffee
+EXTRACTED QUANTITY: 9
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 9
+FINAL CART QUANTITY: 9
+--------------------------------------------------
+VOICE: 10 coffee venam
+STT: 10 coffee venam
+NORMALIZED: 10 coffee
+EXTRACTED QUANTITY: 10
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 10
+FINAL CART QUANTITY: 10
+--------------------------------------------------
+VOICE: Enik nalu pazham pori venam
+STT: Enik nalu pazham pori venam
+NORMALIZED: enik nalu pazham pori
+EXTRACTED QUANTITY: 4
+EXTRACTED ITEM: Pazham Pori
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 4
+FINAL CART QUANTITY: 4
+--------------------------------------------------
+VOICE: Enik ettu tea venam
+STT: Enik ettu tea venam
+NORMALIZED: enik ettu tea
+EXTRACTED QUANTITY: 8
+EXTRACTED ITEM: Tea
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 8
+FINAL CART QUANTITY: 8
+--------------------------------------------------
+VOICE: Enik pathu coffee venam
+STT: Enik pathu coffee venam
+NORMALIZED: enik pathu coffee
+EXTRACTED QUANTITY: 10
+EXTRACTED ITEM: Coffee
+GEMINI QUANTITY: 1
+FINAL ACTION QUANTITY: 10
+FINAL CART QUANTITY: 10
+--------------------------------------------------
