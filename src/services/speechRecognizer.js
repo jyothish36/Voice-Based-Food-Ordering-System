@@ -1,5 +1,9 @@
 // SpeechRecognizer service
 
+// Detect mobile browsers — continuous=true is unreliable on iOS Safari and Android Chrome
+const isMobileBrowser = typeof window !== 'undefined' &&
+  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
 class SpeechRecognizer {
   constructor() {
     const SpeechRecognition = typeof window !== 'undefined' && 
@@ -62,8 +66,10 @@ class SpeechRecognizer {
       }
 
       this.recognition = new this.SpeechRecognitionClass();
-      this.recognition.continuous = true;
-      this.recognition.interimResults = true; // Enabled to capture final boundary accurately
+      // Mobile: use single-shot mode (continuous=true is blocked by gesture policy on mobile)
+      this.recognition.continuous = isMobileBrowser ? false : true;
+      // Interim results work on desktop; on mobile they can cause duplicate onresult events
+      this.recognition.interimResults = isMobileBrowser ? false : true;
       this.recognition.maxAlternatives = 5; // Request multiple ASR hypotheses where supported
       this.recognition.lang = this.lang;
 
@@ -161,6 +167,11 @@ class SpeechRecognizer {
           if (this.sentenceBuffer) {
             this.flushSentenceBuffer();
           }
+          // On mobile, no-speech kills the session — restart it explicitly
+          if (isMobileBrowser && !this.isPausedForSpeech && !this.isSpeakingTTS && this.hasPermission !== false) {
+            clearTimeout(this.restartTimeout);
+            this.restartTimeout = setTimeout(() => { this.start(); }, 150);
+          }
         } else {
           console.warn('[SpeechRecognizer] Recognition error:', event.error);
           if (this.onErrorCallback) {
@@ -181,9 +192,11 @@ class SpeechRecognizer {
         // Automatically restart only if we should be listening and are NOT paused for TTS speech
         if (!this.isPausedForSpeech && !this.isSpeakingTTS && this.hasPermission !== false) {
           clearTimeout(this.restartTimeout);
+          // On mobile, restart faster (single-shot ends immediately after each result)
+          const delay = isMobileBrowser ? 100 : 250;
           this.restartTimeout = setTimeout(() => {
             this.start();
-          }, 250);
+          }, delay);
         } else if (!this.isPausedForSpeech && !this.isSpeakingTTS) {
           this.notifyStateChange('IDLE');
         }
