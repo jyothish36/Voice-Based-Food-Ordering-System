@@ -307,7 +307,7 @@ Alternatives: ${JSON.stringify(alternatives)}
 Analyze the customer's request and output the appropriate intent, items, and Malayalam spoken response.
 `;
 
-  const models = ['gemini-flash-latest', 'gemini-flash-lite-latest', 'gemini-2.5-flash', 'gemini-3.5-flash'];
+  const models = ['gemini-flash-lite-latest', 'gemini-flash-latest', 'gemini-2.5-flash', 'gemini-3.5-flash'];
 
   for (const model of models) {
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${encodeURIComponent(apiKey)}`;
@@ -316,7 +316,7 @@ Analyze the customer's request and output the appropriate intent, items, and Mal
       const response = await fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        signal: AbortSignal.timeout(8000),
+        signal: AbortSignal.timeout(4000),
         body: JSON.stringify({
           system_instruction: {
             parts: [{ text: SYSTEM_INSTRUCTION }]

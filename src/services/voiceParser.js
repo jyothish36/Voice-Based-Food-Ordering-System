@@ -27,6 +27,18 @@ export const NUMBER_MAP = {
   'an': 1,
 
   // Malayalam script numbers (base & inflected forms)
+  // Common speech-recognizer spellings that end in "ു" instead of chillu/virama
+  'ഒന്നു': 1,
+  'രണ്ടു': 2,
+  'മൂന്നു': 3,
+  'നാലു': 4,
+  'അഞ്ചു': 5,
+  'ആറു': 6,
+  'ഏഴു': 7,
+  'എട്ടു': 8,
+  'ഒമ്പതു': 9,
+  'ഒൻപതു': 9,
+  'പത്തു': 10,
   'ഒരു': 1,
   'ഒന്ന്': 1,
   'ഒരെണ്ണം': 1,

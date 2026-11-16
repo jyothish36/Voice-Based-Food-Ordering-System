@@ -910,7 +910,7 @@ export function OrderProvider({ children }) {
     });
 
     const isHighConfidenceAction = localParsed && localParsed.confidenceTier === 'HIGH' &&
-      ['ADD_ITEM', 'REMOVE_ITEM', 'REMOVE_FROM_CART', 'CHANGE_QUANTITY', 'SET_QUANTITY', 'CHECKOUT', 'CONFIRM_ORDER', 'CANCEL_ORDER', 'START_NEW_ORDER'].includes(localParsed.type);
+      ['ADD_ITEM', 'REMOVE_ITEM', 'REMOVE_FROM_CART', 'CHANGE_QUANTITY', 'SET_QUANTITY', 'CHECKOUT', 'CONFIRM_ORDER', 'CANCEL_ORDER', 'START_NEW_ORDER', 'PRICE_INQUIRY', 'MENU_INQUIRY', 'SHOW_CATEGORY', 'CHECK_TOTAL', 'SHOW_CART'].includes(localParsed.type);
 
     if (isHighConfidenceAction) {
       // Execute instantly via local rules (~100ms response time instead of ~5000ms cloud roundtrip)
@@ -920,7 +920,7 @@ export function OrderProvider({ children }) {
 
     // For conversational queries, ambiguous requests, or low confidence: route to Gemini with timeout
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 8000);
+    const timeoutId = setTimeout(() => controller.abort(), 6000);
 
     fetch('/api/gemini', {
       method: 'POST',
