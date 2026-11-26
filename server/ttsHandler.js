@@ -1,9 +1,12 @@
 import fs from 'fs';
+import os from 'os';
 import path from 'path';
 import crypto from 'crypto';
 
 // Setup persistent TTS cache directory
-const TTS_CACHE_DIR = path.resolve(process.cwd(), '.tts_cache');
+const TTS_CACHE_DIR = process.env.VERCEL
+  ? path.join(os.tmpdir(), '.tts_cache')
+  : path.resolve(process.cwd(), '.tts_cache');
 if (!fs.existsSync(TTS_CACHE_DIR)) {
   try {
     fs.mkdirSync(TTS_CACHE_DIR, { recursive: true });
