@@ -1,41 +1,70 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useOrder } from '../context/OrderContext';
-import { ShoppingCart, Plus, Minus, Trash2, ArrowRight } from 'lucide-react';
+import { ShoppingCart, Plus, Minus, Trash2, ArrowRight, ChevronUp, ChevronDown } from 'lucide-react';
 
 export default function CartSidebar() {
   const { cart, removeFromCart, addToCart, clearCart, totalAmount, totalItemCount, setScreen, speak } = useOrder();
+  const [mobileOpen, setMobileOpen] = useState(false);
 
   const handleCheckout = () => {
     if (cart.length === 0) {
       speak("Your cart is empty. Please order some items first.");
       return;
     }
+    setMobileOpen(false);
     setScreen('review');
     speak("Let me review your order.");
   };
 
   return (
-    <aside className="kiosk-cart-panel" aria-label="Current Order">
-      <div className="cart-panel-header">
-        <div className="cart-title-with-icon">
-          <ShoppingCart size={22} className="cart-header-icon" />
-          <h2 className="cart-panel-title">YOUR ORDER</h2>
-        </div>
-        {cart.length > 0 && (
-          <button 
-            type="button" 
-            className="cart-clear-btn" 
-            onClick={() => {
-              clearCart();
-              speak("I have cleared your cart.");
-            }}
-            title="Clear all items"
+    <>
+      {mobileOpen && (
+        <div
+          className="cart-mobile-backdrop"
+          onClick={() => setMobileOpen(false)}
+        />
+      )}
+      <aside className={`kiosk-cart-panel ${mobileOpen ? 'mobile-open' : ''}`} aria-label="Current Order">
+        <div className="cart-panel-header">
+          <button
+            type="button"
+            className="cart-header-toggle-btn"
+            onClick={() => setMobileOpen(prev => !prev)}
+            aria-expanded={mobileOpen}
           >
-            <Trash2 size={16} />
-            <span>Clear</span>
+            <div className="cart-title-with-icon">
+              <ShoppingCart size={22} className="cart-header-icon" />
+              <h2 className="cart-panel-title">YOUR ORDER</h2>
+            </div>
+            <span className="cart-mobile-summary">
+              {totalItemCount} {totalItemCount === 1 ? 'item' : 'items'} • ₹{totalAmount}
+            </span>
           </button>
-        )}
-      </div>
+          <div className="cart-header-right">
+            {cart.length > 0 && (
+              <button 
+                type="button" 
+                className="cart-clear-btn" 
+                onClick={() => {
+                  clearCart();
+                  speak("I have cleared your cart.");
+                }}
+                title="Clear all items"
+              >
+                <Trash2 size={16} />
+                <span>Clear</span>
+              </button>
+            )}
+            <button
+              type="button"
+              className="cart-mobile-chevron-btn"
+              onClick={() => setMobileOpen(prev => !prev)}
+              aria-label={mobileOpen ? 'Collapse order' : 'Expand order'}
+            >
+              {mobileOpen ? <ChevronDown size={20} /> : <ChevronUp size={20} />}
+            </button>
+          </div>
+        </div>
 
       <div className="cart-items-container">
         {cart.length === 0 ? (
@@ -121,5 +150,6 @@ export default function CartSidebar() {
         </div>
       </div>
     </aside>
+    </>
   );
 }

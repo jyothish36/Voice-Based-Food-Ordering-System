@@ -50,6 +50,13 @@
   --bottom-bar-height: 96px;
 }
 
+@media (max-width: 768px) {
+  :root {
+    --header-height: 64px;
+    --bottom-bar-height: 76px;
+  }
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
